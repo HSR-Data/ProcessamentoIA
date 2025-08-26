@@ -1,0 +1,112 @@
+[VERSION]
+ 25.0
+[PREFERENCES]
+ 132,120,25,64,1,2,3,4,6,13,5,7,1,2,3,4,5,0,8,1440,1440,1440,1440,12,8,9,6,0,0,3,7,99,10,1440,1440,0,0,Courier New,11,14,15,16,0,32767,1,2,3,4
+ PC,CT,TT,SD,SK,SH,^-,%-,T1,QA,LA,BL,BH,FH,MH,TW,SOO,T5,B5,5TB2,5BB2,T7,M7,B7,7TB2,7MB3,7BB2,T10,M10,B10,10TB3,10MB4,10BB3,T11,M11,B11,11TB2,11MB2,11BB7,5TB=Top #N Box,5BB=Bottom #N Box,7TB=Top #N Box,7MB=Middle #N Box,7BB=Bottom #N Box,10TB=Top #N Box,10MB=Middle #N Box,10BB=Bottom #N Box,11TB=Promoters,11MB=Passives,11BB=Detractors,OTB=Top #N Box,OBB=Bottom #N Box,TBO,BBO,OTB2,OBB2,RSD,RAN,NRAS,NRRS,NRAC,SAC,NSGM,SAM,SAA,MJS,NRAA,NRMR,BAV,NNAT,NNBT,NNBNA,NADT,NXTA,NXFS,NATC,AOE,NSMR,BBS,MBS,TBS,AMS,ANS,NAL,RRTN,SRTN,MRTN,ORTN,LCN,STR200,OEN,RMV,MMM,MRO=SM,SMO=SM,RRO=SM
+ Média,Mediana,Desvio Padrão,Erro Padrão,N,Grouped Median
+ Sample Size for Statistic Base,Mode,1st Quartile,3rd Quartile,Chi-Square | Significance,Minimum,Maximum,Effective Sample Size for Statistic Base
+ Base,Base: Total Respondente,NO ANSWER,Sigma (Volume),Base não ponderada,Effective Sample Size,#c Percentile,Mean Confidence Interval #N% (Lower),Mean Confidence Interval #N% (Upper),Mean Number of Mentions
+ OW,OV,OB,OI3,SU,O%,SF,BR,RV,S3,P0,V3,SA,SP
+ Fonte: Total da amostra^TN^0
+ 
+ 
+ 
+ 
+[SIGFOOTER]
+ Paired/Overlap T-Test for Means
+ Independent T-Test for Means (unequal variances)
+ Independent T-Test for Means (equal variances)
+ T-Test for Means
+ Independent T-Test for Means (based on test for equal variances)
+ Least-significant difference Anova
+ Student Newman Keuls Anova
+ Kramer-Tukey Anova
+ Kramer-Tukey B Anova
+ Scheffe Anova
+ Homogeneous groups are represented by the same number and are|significantly different from other groups at the #N% level.
+ Paired/Overlap Z-Test for Percentages
+ Independent Z-Test for Percentages (pooled proportions)
+ Independent Z-Test for Percentages (unpooled proportions)
+ Comparison Groups: 
+ Uppercase letters indicate significance at the #N% level.
+ Lowercase letters indicate significance at the #N% level.
+ 
+ 
+ Bonferroni correction applied.
+ #U and #L indicate significance at the #N% level.
+[GLOSSARY]
+[TABLES]
+THC_F0^2
+ OW,OV,OB,OI3,SU,O%,SF,BR,RV,S3,P0,V3,SA,SP
+ HC_F0 - {$FUNCAO_EXIBIR_SAUDACAO()}, meu nome é {$FUNCAO_RETORNA_USUARIO()}, trabalho para REDS, uma empresa de pesquisa de mercado. Estamos realizando uma pesquisa que durará aproximadamente 20 minutos e gostaríamos de contar com sua colab
+ Fonte: Total da amostra^TN^0
+ Sim^ HC_F0 (1)
+ Não^ HC_F0 (2)
+THC_F1A_1^3
+ OW,OV,OB,OI3,SU,O%,SF,BR,RV,S3,P0,V3,SA,SP
+ HC_F1A_1 - Tenho bastante facilidade com internet/tecnologia. Costumo baixar aplicativos e usá-los sozinha, sem precisar da ajuda de terceiros
+ Fonte: Total da amostra^TN^0
+ Discordo totalmente^ HC_F1A_1 (1)
+ Discordo um pouco^   HC_F1A_1 (2)
+ Concordo um pouco^   HC_F1A_1 (3)
+ Concordo totalmente^ HC_F1A_1 (4)
+THC_F1^6
+ OW,OV,OB,OI3,SU,O%,SF,BR,RV,S3,P0,V3,SA,SP
+ HC_F1 - HC_F1. Praça (RU)
+ Fonte: Total da amostra^TN^0
+ Rio de Janeiro^ HC_F1 (1)
+ Curitiba^       HC_F1 (2)
+ Salvador^       HC_F1 (3)
+TGENDER^7
+ OW,OV,OB,OI3,SU,O%,SF,BR,RV,S3,P0,V3,SA,SP
+ GENDER - Gênero: (RU)<br>Entrevistador: mostrar o tablet para a entrevistada. Pedir para a entrevistada verbalizar a resposta.
+ Fonte: Total da amostra^TN^0
+ Feminino^    GENDER (1)
+ Masculino^   GENDER (2)
+ Não binário^ GENDER (3)
+TAGEF^8
+ OW,OV,OB,OI3,SU,O%,SF,BR,RV,S3,P0,V3,SA,SP
+ AGEF - GRAVA IDADE
+ Fonte: Total da amostra^TN^0
+ Menos de 18 anos^ AGEF (0)
+ 18 a 24 anos^     AGEF (1)
+ 25 a 29 anos^     AGEF (2)
+ 30 a 39 anos^     AGEF (3)
+ 40 a 50 anos^     AGEF (4)
+ Mais de 50 anos^  AGEF (5)
+TCLASSE^9
+ OW,OV,OB,OI3,SU,O%,SF,BR,RV,S3,P0,V3,SA,SP
+ CLASSE
+ Fonte: Total da amostra^TN^0
+ A (45-100 pts.)^   CLASSE (1)
+ B1 (38 a 44 pts.)^ CLASSE (2)
+ B2 (29 a 37 pts.)^ CLASSE (3)
+ C1 (23 a 28 pts.)^ CLASSE (4)
+ C2 (17 a 22 pts.)^ CLASSE (5)
+ D-E (0 a 16 pts.)^ CLASSE (6)
+THC_F15^26
+ OW,OV,OB,OI3,SU,O%,SF,BR,RV,S3,P0,V3,SA,SP,MM,OD
+ HC_F15. Quais desses produtos você costuma usar na sua rotina de cuidado com o cabelo?
+ Fonte: Total da amostra^TN^0
+ Shampoo^                                                                                                                  HC_F15_OP_1 S17 (1)
+ Condicionador^                                                                                                            HC_F15_OP_1 S17 (2)
+ Creme para pentear^                                                                                                       HC_F15_OP_1 S17 (3)
+ Outros produtos para finalização e definição de cachos (Spray Day after, reativador de cachos, geleias, mousses, cremes,^ HC_F15_OP_1 S17 (4)
+ Leave-In^                                                                                                                 HC_F15_OP_1 S17 (5)
+ Leite / Spray / Agua para pentear^                                                                                        HC_F15_OP_1 S17 (6)
+ Creme de tratamento^                                                                                                      HC_F15_OP_1 S17 (7)
+ Ampolas/ bisnagas de tratamento (dose única/ 3 minutos / 1 minuto)^                                                       HC_F15_OP_1 S17 (8)
+ Silicone / sérum /óleo reparador de pontas^                                                                               HC_F15_OP_1 S17 (9)
+ Óleos multiuso para tratar os cabelos (ex.: óleo de argan, morrocanoil, etc)^                                             HC_F15_OP_1 S17 (10)
+ Produtos para ativar /umidificar cachos^                                                                                  HC_F15_OP_1 S17 (11)
+ Produto para proteger os cabelos durante uso do secador ou chapinha/protetor térmico^                                     HC_F15_OP_1 S17 (12)
+ Pre-shampoo^                                                                                                              HC_F15_OP_1 S17 (13)
+ Shampoo 2 em 1 (shampoo + condicionador)^                                                                                 HC_F15_OP_1 S17 (14)
+ Produtos específicos para o couro cabeludo (ex.: tônico, loção)^                                                          HC_F15_OP_1 S17 (15)
+ Produtos para colorir os cabelos^                                                                                         HC_F15_OP_1 S17 (16)
+ Outros. Especifique:^                                                                                                     HC_F15_OP_1 S17 (98)
+[BANNERS]
+[SIDEBYSIDE]
+[TITLE]
+ HSR Specialist Researchers^TC
+ <<HSR>>^TL

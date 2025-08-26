@@ -1,0 +1,20 @@
+// Each banner starts with "Banner Name:", followed by the banner name,
+// followed by a newline, followed by a newline-delimited list of table
+// use index numbers. The line(s) containing the table 
+// index may optionally contain a tab followed by "Sequence:" followed
+// by the sequence number and/or optionally a tab followed by "Table Name:"
+// followed immediately by the table name.
+// If there are no banners selected, then the banner name is "Default".
+// The [MISC] section is optional and should only be edited by WinCross.
+
+[BANNER/TABLE SELECTIONS]
+Banner Name:Default
+26	Sequence:7	Table Name:HC_F15
+[MISC]
+RunBoxBannerItemIndex:-1
+RunBoxPlainReport:0
+RunBoxEnhancedReport:1
+ETROptionPrintBlankSigLines:1
+ETROptionSuppressBlankLineAfterSigLine:0
+ETROptionPositionOfSigIndicatorsIndex:1
+AdvancedSelectionOption:0

@@ -1,0 +1,6 @@
+{
+  "runDocling": {
+    "description": "Execute the Docling PDF to Markdown converter",
+    "command": "python utils\\runDocling.py"
+  }
+}

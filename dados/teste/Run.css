@@ -1,0 +1,134 @@
+BODY{background-color:#ffffff;background:url('') repeat fixed #ffffff;font-family:Verdana;font-size:10pt;font-style: ;font-weight:1;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TABLE_OF_CONTENTS{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#232323;text-align:left;width:;text-decoration:;background-size:;}
+.PICTURE_STYLE{background-color: ;background-image:url(' ');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#232323;text-align:left;width:;text-decoration:;background-size:;}
+nothing{background-color: ;background-image:url(' ');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#232323;text-align:left;width:;text-decoration:;background-size:;}
+.JOB_TITLE1{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#464646;text-align:left;width:;text-decoration:;background-size:;}
+.JOB_TITLE2{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#464646;text-align:left;width:;text-decoration:;background-size:;}
+.JOB_TITLE3{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#464646;text-align:left;width:;text-decoration:;background-size:;}
+.JOB_TITLE4{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#464646;text-align:left;width:;text-decoration:;background-size:;}
+nothing{background-color: ;background-image:url(' ');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#232323;text-align:left;width:;text-decoration:;background-size:;}
+.TABLE_NUM{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#464646;text-align:left;width:;text-decoration:;background-size:;}
+nothing{background-color: ;background-image:url(' ');font-family:;font-size:8pt;font-style: ;font-weight:;color:;text-align:;width:;text-decoration:;background-size:;}
+.TABLE_TITLE1{background-color: ;background-image:url(' ');font-family:Verdana;font-size:10pt;font-style: ;font-weight:bold;color:#232323;text-align:left;width:;text-decoration:;background-size:;}
+.TABLE_TITLE2{background-color: ;background-image:url(' ');font-family:Verdana;font-size:10pt;font-style: ;font-weight:bold;color:#232323;text-align:left;width:;text-decoration:;background-size:;}
+.TABLE_TITLE3{background-color: ;background-image:url(' ');font-family:Verdana;font-size:10pt;font-style: ;font-weight:bold;color:#232323;text-align:left;width:;text-decoration:;background-size:;}
+.TABLE_TITLE4{background-color: ;background-image:url(' ');font-family:Verdana;font-size:10pt;font-style: ;font-weight:bold;color:#232323;text-align:left;width:;text-decoration:;background-size:;}
+nothing{background-color: ;background-image:url(' ');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#232323;text-align:left;width:;text-decoration:;background-size:;}
+.TABLE_SUBTITLE1{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#464646;text-align:left;width:;text-decoration:;background-size:;}
+.TABLE_SUBTITLE2{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#464646;text-align:left;width:;text-decoration:;background-size:;}
+.TABLE_SUBTITLE3{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#464646;text-align:left;width:;text-decoration:;background-size:;}
+.TABLE_SUBTITLE4{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#464646;text-align:left;width:;text-decoration:;background-size:;}
+.BANNER_TEXTS{background-color: ;background-image:url(' ');font-family:Verdana;font-size:9pt;font-style: ;font-weight: ;color:#232323;text-align:center;width:;text-decoration:;background-size:;white-space: pre-wrap;}
+.COLUMN_TEXTS{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#464646;text-align:right;width:;text-decoration:;background-size:;}
+.ROW_TEXT{background-color: ;background-image:url(' ');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#232323;text-align:left;width:;text-decoration:;background-size:;white-space: pre-wrap;}
+nothing{background-color: ;background-image:url(' ');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#232323;text-align:left;width:;text-decoration:;background-size:;}
+.CELL_FREQUENCY{background-color: ;background-image:url(' ');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#0000a0;text-align:right;width:;text-decoration:;background-size:;white-space: pre-wrap;}
+.CELL_VERTICALPCT{background-color: ;background-image:url(' ');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#232323;text-align:right;width:;text-decoration:;background-size:;white-space: pre-wrap;}
+.CELL_HORIZONTALPCT{background-color: ;background-image:url(' ');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#232323;text-align:right;width:;text-decoration:;background-size:;white-space: pre-wrap;}
+.CELL_SIGNIFICANCE_UPPER{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#0000ff;text-align:right;width:;text-decoration:;background-size:;white-space: pre-wrap;}
+.CELL_STATISTIC_BASE{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#004000;text-align:right;width:;text-decoration:;background-size:;}
+.CELL_MEAN{background-color: ;background-image:url(' ');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#004000;text-align:right;width:;text-decoration:;background-size:;white-space: pre-wrap;}
+.CELL_STANDARDDEVIATION{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#004000;text-align:right;width:;text-decoration:;background-size:;}
+.CELL_STANDARDERROR{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#004000;text-align:right;width:;text-decoration:;background-size:;}
+.FOOTNOTES{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#464646;text-align:left;width:;text-decoration:;background-size:;}
+nothing{background-color: ;background-image:url(' ');font-family:;font-size:8pt;font-style: ;font-weight:;color:;text-align:;width:;text-decoration:;background-size:;}
+.CELL_MINIMUM{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#004000;text-align:right;width:;text-decoration:;background-size:;}
+.CELL_MAXIMUM{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#004000;text-align:right;width:;text-decoration:;background-size:;}
+.CELL_FIRST_QUARTILE{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#004000;text-align:right;width:;text-decoration:;background-size:;}
+.CELL_THIRD_QUARTILE{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#004000;text-align:right;width:;text-decoration:;background-size:;}
+.CELL_MEDIAN{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#004000;text-align:right;width:;text-decoration:;background-size:;}
+.CELL_MODE{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#004000;text-align:right;width:;text-decoration:;background-size:;}
+.CELL_EFFECTIVE_BASE{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#004000;text-align:right;width:;text-decoration:;background-size:;}
+nothing{background-color: ;background-image:url(' ');font-family:;font-size:8pt;font-style: ;font-weight:;color:;text-align:;width:;text-decoration:;background-size:;}
+.CELL_SIGNIFICANCE_LOWER{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#6a6aff;text-align:right;width:;text-decoration:;background-size:;white-space: pre-wrap;}
+.CELL_SIG_DELIMITER{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#232323;text-align:right;width:;text-decoration:;background-size:;white-space: pre-wrap;}
+.FREQUENCY{background-color:#ffffff;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:0;color:#000000;text-align:right;width:;text-decoration:;background-size:;}
+.FREQ_HEADER{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight:bold;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.FREQ_FOOTER{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.FREQ_BANNER{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:center;width:;text-decoration:;background-size:;}
+.FREQ_VALUE{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:right;width:;text-decoration:;background-size:;}
+.FREQ_FREQUENCY{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:right;width:;text-decoration:;background-size:;}
+.FREQ_SUMX{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:right;width:;text-decoration:;background-size:;}
+.FREQ_PERCENT{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:right;width:;text-decoration:;background-size:;}
+.FREQ_CUM_PERCENT{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:right;width:;text-decoration:;background-size:;}
+.OTHER_REPORTS{background-color:#ffffff;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:0;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.OTHER_HEADER{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight:bold;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.OTHER_BANNER{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:center;width:;text-decoration:;background-size:;}
+.OTHER_ROW_TEXT{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.OTHER_FREQUENCY{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.OTHER_PERCENT{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:right;width:;text-decoration:;background-size:;}
+.CELL_PERCENTILE{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#004000;text-align:right;width:;text-decoration:;background-size:;}
+.CELL_ANOVA{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#0000ff;text-align:right;width:;text-decoration:;background-size:;}
+.CELL_CHI_SQUARE{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#0000ff;text-align:right;width:;text-decoration:;background-size:;}
+.JOB_BOTTOMTITLES{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#ffffff;text-align:left;width:;text-decoration:;background-size:;}
+nothing{background-color: ;background-image:url(' ');font-family:;font-size:8pt;font-style: ;font-weight:;color:;text-align:;width:;text-decoration:;background-size:;}
+TOC_HYPERLINK{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.CELL_EFFECTIVE_SAMPLE{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#004000;text-align:right;width:;text-decoration:;background-size:;}
+.CELL_CONSTANTPCT{background-color: ;background-image:url(' ');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#232323;text-align:right;width:;text-decoration:;background-size:;white-space: pre-wrap;}
+.BANNER_TINT{background-color:#d1e2e7;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:1;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.ROWTEXT_TINT{background-color:#734338;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:0;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.ODDROW_TINT{background-color:#e9f1f3;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:1;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.EVENROW_TINT{background-color:#fffffd;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:1;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.COMPGRP01{background-color:#e6e6e6;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:1;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.COMPGRP02{background-color:;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:1;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.COMPGRP03{background-color:#e6e6e6;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.COMPGRP04{background-color:;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.COMPGRP05{background-color:#e6e6e6;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.COMPGRP06{background-color:;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.COMPGRP07{background-color:#e6e6e6;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.COMPGRP08{background-color:;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.COMPGRP09{background-color:#e6e6e6;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.COMPGRP10{background-color:;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.COMPGRP11{background-color:#e6e6e6;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.COMPGRP12{background-color:;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.COMPGRP13{background-color:#e6e6e6;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.COMPGRP14{background-color:;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.COMPGRP15{background-color:#e6e6e6;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TABLE_STYLE{background-color: ;background-image:url(' ');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#232323;text-align:left;margin-left:0;margin-right:auto;width:;text-decoration:;background-size:;}
+.JOB_IMAGE_STYLE{background-color: ;background-image:url(' ');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#232323;text-align:left;width:;text-decoration:;background-size:;}
+.BANNER_TITLE{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#232323;text-align:left;width:;text-decoration:;background-size:;}
+.BANNER_FILTER_TITLE{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#232323;text-align:left;width:;text-decoration:;background-size:;}
+.TINTSTATS{background-color:#d1e2e7;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight:1;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINTFREQ{background-color:#ff8040;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINTVPCT{background-color:#e7ffff;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINTHPCT{background-color:#dcdccd;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINTCPCT{background-color:#dccdcd;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINTMEAN{background-color:#cddccd;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINTSDEV{background-color:#cdcddc;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINTSERR{background-color:#bbdcdc;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINTMED{background-color:#dcbbdc;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINTMIN{background-color:#dcdcbb;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINTMAX{background-color:#cddcdc;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINT1STQ{background-color:#dccddc;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINT3RDQ{background-color:#dcdccd;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINTMODE{background-color:#dccdcd;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINTBASE{background-color:#cddccd;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINTESS{background-color:#cdcddc;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINTVOLU{background-color:#bbdcdc;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINTSIGL{background-color:#f1fef1;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINTRANK{background-color:#dcbbdc;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINTPERCENTILE{background-color:#cddcdc;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.TINTBLANKROW{background-color:#e7e7ff;background-image:url('');font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.FREQ_CHART_IMAGE{background-color:#000000;background-image:url('');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:left;width:;text-decoration:;background-size:;}
+.RUN_FILTER_TITLE{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight: ;color:#232323;text-align:left;width:;text-decoration:;background-size:;}
+.CELL_SIGNIFICANT{background-color:#DFDAF1;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight:1;color:#D50000;text-align:right;width:;text-decoration:;background-size:;}
+.CELL_NPS{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:right;width:;text-decoration:;background-size:;}
+.CELL_NPS_STD_ERROR{background-color: ;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:right;width:;text-decoration:;background-size:;}
+.CELL_NPS_TINT{background-color:#E7FFFF;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight:1;color:#D50000;text-align:right;width:;text-decoration:;background-size:;}
+.CELL_NPS_STD_ERROR_TINT{background-color:#CDCDDC;background-image:url(' ');font-family:Verdana;font-size:8pt;font-style: ;font-weight:normal;color:#000000;text-align:right;width:;text-decoration:;background-size:;}
+.SIG_TVP_UPPER_ABOVE{background-color:#D9D5FF;background-image:url('é');;font-family:WingDings;font-size:8pt;font-style: ;font-weight:normal;color:#0000FF;text-align:right;width:110px;text-decoration:;background-size:000;}
+.SIG_TVP_UPPER_BELOW{background-color:#C4E4FF;background-image:url('ê');;font-family:WingDings;font-size:8pt;font-style: ;font-weight:normal;color:#FF0000;text-align:right;width:110px;text-decoration:;background-size:000;}
+.SIG_TVP_LOWER_ABOVE{background-color:#D9D5FF;background-image:url('é');;font-family:WingDings;font-size:8pt;font-style: ;font-weight:normal;color:#0000FF;text-align:right;width:110px;text-decoration:;background-size:000;}
+.SIG_TVP_LOWER_BELOW{background-color:#C4E4FF;background-image:url('ê');;font-family:WingDings;font-size:8pt;font-style: ;font-weight:normal;color:#FF0000;text-align:right;width:110px;text-decoration:;background-size:000;}
+.SIG_TVP_ABOVE_FREQUENCY{background-color:#000000;background-image:url(' ');;font-family:Verdana;font-size:8pt;font-style:;font-weight:;color:#FF0000;text-align:right;width:11px;text-decoration:;background-size:00;}
+.SIG_TVP_ABOVE_PERCENT{background-color:#000000;background-image:url(' ');;font-family:Verdana;font-size:8pt;font-style:;font-weight:;color:#FF0000;text-align:right;width:11px;text-decoration:;background-size:00;}
+.SIG_TVP_ABOVE_FREQ_FNT{background-color:#000000;background-image:url(' ');;font-family:Verdana;font-size:8pt;font-style:;font-weight:;color:#0000a0;text-align:right;width:11px;text-decoration:;background-size:00;}
+.SIG_TVP_ABOVE_PRCNT_FNT{background-color:#000000;background-image:url(' ');;font-family:Verdana;font-size:8pt;font-style:;font-weight:;color:#232323;text-align:right;width:11px;text-decoration:;background-size:00;}
+.SIG_TVP_ABOVE_FREQ_CLR{background-color:#000000;background-image:url(' ');;font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#FF0000;text-align:right;width:11px;text-decoration:;background-size:;}
+.SIG_TVP_ABOVE_PRCNT_CLR{background-color:#000000;background-image:url(' ');;font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#FF0000;text-align:right;width:11px;text-decoration:;background-size:;}
+.SIG_TVP_BELOW_FREQUENCY{background-color:#000000;background-image:url(' ');;font-family:Verdana;font-size:8pt;font-style:;font-weight:;color:#0000FF;text-align:right;width:11px;text-decoration:;background-size:00;}
+.SIG_TVP_BELOW_PERCENT{background-color:#000000;background-image:url(' ');;font-family:Verdana;font-size:8pt;font-style:;font-weight:;color:#0000FF;text-align:right;width:11px;text-decoration:;background-size:00;}
+.SIG_TVP_BELOW_FREQ_FNT{background-color:#000000;background-image:url(' ');;font-family:Verdana;font-size:8pt;font-style:;font-weight:;color:#0000a0;text-align:right;width:11px;text-decoration:;background-size:00;}
+.SIG_TVP_BELOW_PRCNT_FNT{background-color:#000000;background-image:url(' ');;font-family:Verdana;font-size:8pt;font-style:;font-weight:;color:#232323;text-align:right;width:11px;text-decoration:;background-size:00;}
+.SIG_TVP_BELOW_FREQ_CLR{background-color:#000000;background-image:url(' ');;font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#0000FF;text-align:right;width:11px;text-decoration:;background-size:;}
+.SIG_TVP_BELOW_PRCNT_CLR{background-color:#000000;background-image:url(' ');;font-family:Verdana;font-size:10pt;font-style: ;font-weight: ;color:#0000FF;text-align:right;width:11px;text-decoration:;background-size:;}

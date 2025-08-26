@@ -1,0 +1,21 @@
+[VERSION]
+ 21.0
+ WinCrossUsesPrintWidth
+[PREFERENCES]
+ 132,120,25,64,1,2,3,4,6,13,5,7,1,2,3,4,5,1,8,1440,1440,1440,1440,12,8,9,6,0,0,3,7,99,10,1440,1440,0,0,Courier New,11,14,15,16,0,32767,1,2,3,4
+ PC,CT,TT,SD,SK,SH,^-,%-,T1,QA,LA,BL,BH,FH,MH,TW,SOO
+ Média,Mediana,Desvio Padrão,Erro Padrão,N,Grouped Median
+ Sample Size for Statistic Base,Mode,1st Quartile,3rd Quartile,Chi-Square | Significance,Minimum,Maximum,Effective Sample Size for Statistic Base
+ Base,Base: Total Respondente,NO ANSWER,Sigma (Volume),Base não ponderada,Effective Sample Size,#c Percentile,Mean Confidence Interval #N% (Lower),Mean Confidence Interval #N% (Upper),Mean Number of Mentions
+ OW,OV,OB,OI3,SU,O%,SF,BR,RV,S3,P0,V3,SA,SP
+ Fonte: Total da amostra^TN^0
+ 
+ 
+ 
+ 
+[GLOSSARY]
+[TABLES]
+[BANNERS]
+[TITLE]
+ HSR Specialist Researchers^TC
+ <<HSR>>^TL
